@@ -8,7 +8,7 @@ MyntraSwipes is a web application that combines the functionalities of Myntra an
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [License](#license)
 
 
@@ -86,15 +86,9 @@ MyntraSwipes is designed to enhance the shopping experience by allowing users to
 3. Swipe through the outfits and get personalized recommendations.
 
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-name`.
-3. Make your changes and commit them: `git commit -m 'Add new feature'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Create a pull request.
+## Contributors
+-Rithika Malve
+-Tanisha Samanth
 
 ## License
 
