@@ -28,7 +28,7 @@ MyntraSwipes is designed to enhance the shopping experience by allowing users to
 - **Frontend:** React.js, react-tinder-card
 - **Backend:** Flask, Flask-CORS
 - **Machine Learning:** Python, Scikit-learn
-- **Others:** Node.js, Express, Axios
+- **Others:** Node.js, Axios
 
 ## Installation
 
